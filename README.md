@@ -45,8 +45,12 @@ Future Scope
 - Smart home automation
 
 Project Screenshots
-Screenshot_20260513_083732~2.jpg
-IMG-20260309-WA0018.jpg
+Dashboard Interface
+![Dashboard](Screenshot_20260513_083732~2.jpg)
+
+Iot Monitoring Interface
+![IoT Dashboard](IMG-20260309-WA0018.jpg)
+
 
 Author
 
